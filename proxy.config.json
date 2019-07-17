@@ -1,0 +1,7 @@
+{
+  "/api/*":{
+    "target": "http://webtask.future-processing.com:8068",
+    "secure": false,
+    "logLevel":""
+}
+}
